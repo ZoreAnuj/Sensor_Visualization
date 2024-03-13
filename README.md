@@ -1,6 +1,6 @@
 # Visualize UAV On-board sensor data with Python
 
-![gif-animation](./images/animation.gif)
+![gif-animation](./animation.gif)
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
