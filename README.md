@@ -47,7 +47,7 @@ pip install -r requirements.txt
 **NOTE:** PyOpenGL requires typically an OpenGL utility toolkit, e.g.
 `freeglut3-dev` on Ubuntu Linux.
 
-#### Server (mobile phone)
+#### Server
 
 
 1. Install the **SensorStreamer** app
